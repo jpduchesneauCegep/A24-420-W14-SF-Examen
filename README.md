@@ -5,8 +5,11 @@
 
 ---
 **Pondération :** 30 %
+
 **Durée :** 3 heure
+
 **Contexte de réalisation :** cet examen doit être réalisé individuellement.
+
 **Matériel autorisé :** tout le matériel est autorisé.
 
 ### Critères d’évaluation
